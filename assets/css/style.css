@@ -13,15 +13,20 @@ li {
     margin-left: 20px;
     text-align: right;
 }
-table, th, td{
+
+table,
+th,
+td {
     border: 1px solid black;
     border-collapse: collapse;
     text-align: center;
 }
-table{
+
+table {
     width: 100%;
 }
-img{
+
+img {
     position: relative;
     margin-left: 80%;
 }
@@ -32,3 +37,6 @@ img{
     overflow: auto;
 } */
 
+.video{
+    border-radius: 16px;
+}
