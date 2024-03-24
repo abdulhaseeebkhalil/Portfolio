@@ -1,6 +1,44 @@
+.nav-sec{
+    background-color: #8FCFC1;
+}
+
+.header-sec{
+    display: flex;
+    justify-content: space-between;
+    background-color: #e7b67d;
+}
+
 a {
     text-decoration: none;
     color: black;
+}
+
+#bio{
+    background-color: #93d6e2;
+}
+
+#contact{
+    background-color: #93d6e2;
+}
+
+#projects{
+    background-color: #93d6e2;
+}
+
+#skills{
+    background-color: #93d6e2;
+}
+
+#about{
+    background-color: #93d6e2;
+}
+
+#resume{
+    background-color: #93d6e2;
+}
+
+#contact-info{
+    background-color:#8FCFC1;
 }
 
 ul {
@@ -28,7 +66,7 @@ table {
 
 img {
     position: relative;
-    margin-left: 80%;
+    /* margin-left: 80%; */
 }
 
 /* #box{
